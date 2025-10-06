@@ -1,0 +1,12 @@
+{
+  "q1": ["PriorityQueue.push O(n)", "PriorityQueue.pop O(n)", "PriorityQueue.front O(1)", "PriorityQueue.empty O(1)"],
+  "q2": "Encapsulation",
+  "q3": ["fill_cups O(n) time", "fill_cups O(1) space"],
+  "q4_1": 8,
+  "q4_2": 40,
+  "q5": ["WordsList O(n)", "WordsSet O(1)", "WordsDict O(1)"],
+  "q6": "Inheritance",
+  "q7": "Polymorphism",
+  "q8": 109,
+  "q9": ["WordsList slow", "WordsSet and WordsDict same"]
+}
